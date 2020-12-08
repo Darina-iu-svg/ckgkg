@@ -1,0 +1,51 @@
+img{
+    vertical-align: top;
+}
+*::after,
+*::before{
+    padding: 0;
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+}
+html,
+body{
+    height: 100%;
+    line-height: 1;
+    font-size: 14px;
+    background-color: black;
+}
+.swiper-container{
+    padding: 80px 0 70px 0;
+}
+.image-slader_image{
+    text-align: center;
+}
+.image-slader_image img{
+    max-width: 100%;
+}
+.image-slader .swiper-scrollbar-drag{
+    cursor: pointer;
+    background-color:black;
+}
+.swiper-container{
+    display: flex;
+}
+.swiper-container .swiper-button-next::after,
+.swiper-container .swiper-button-prev::after{
+    color: wheat;
+    font-size: 80px;
+}
+.swiper-container .swiper-pagination{
+    bottom: 0px;
+}
+.swiper-container .swiper-pagination-bullet{
+    width: 20px;
+    height: 20px;
+    line-height: 20px;
+    font-size: 14px;
+    background-color: white;
+}

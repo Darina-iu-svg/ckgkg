@@ -1,0 +1,109 @@
+body{
+    background-color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+}
+h2{
+    font-size: 12px;
+    color: grey;
+}
+
+.title{
+    width: 1300px;
+    margin: 0 auto;
+}
+.main{
+    max-width: 100%;
+    max-height: 100%;
+    position: relative;
+}
+.container{
+width: 1400px;
+margin: 0 auto;
+display: flex;
+margin-top: 100px;
+}
+.con1photo{
+    width: 340px;
+    height: 400px;
+}
+.cont2bio{
+
+    width: 200px;
+    height: 200px;
+    width: 390px;
+    height: 370px;
+    margin-left: 60px;
+}
+.cont3text{
+    border: 4px solid;
+    border-color: #DEDEDE;
+    width: 200px;
+    height: 200px;
+    width: 340px;
+    height: 370px;
+    margin-left: 150px;
+}
+p{
+ color: grey;
+ font-family: 'Times New Roman', Times, serif;
+}
+a{
+    color: black;
+}
+ul{
+    font-size: 18px;
+    word-spacing: 3px;
+    
+}
+h3{
+    color: black;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 25px;
+}
+.biographia{
+    width: 700px;
+    height: 100px;
+    
+}
+.text{
+    margin: 0 auto;
+    
+    width: 1200px;
+    height: 5500px;
+}
+h4{
+    font-size: 23px;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+.bbbbb{
+    color: #26170F;
+    font-size: 18px;
+    word-spacing: 10px;
+
+}
+.akl{
+    color: #26170F;
+    font-size: 18px;
+    word-spacing: 10px;
+}
+button{
+    width: 200px;
+    height: 50px;
+    background-color: #F24949;
+    border-radius: 10px;
+    border-color: #F24949 ;
+    color: white;
+    margin-left: 60px;
+    margin-top: -10px;
+    
+}
+.buti{
+    text-decoration: none;
+    color: white;
+}
